@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sai Vishwanath Venkatesh"
+title                    : "Sai Vishwanath"
 title_separator          : "-"
 name                     : &name "Sai Vishwanath Venkatesh"
 description              : &description "personal description"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/saivish/
   orcid            :
   pinterest        :
   soundcloud       :
