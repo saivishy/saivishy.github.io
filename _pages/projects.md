@@ -4,6 +4,8 @@ title: "Projects"
 ---
 ## Applied Machine Learning 
 
+___
+
 ### [ML and Society: Teaching Tools](http://www-student.cse.buffalo.edu/~atri/ml-and-soc/spr22/project/teaching.html)
 
 I learned how to implement socially equitable ML and better understand the propagative effect of ML on society as a part of the course [CSE 540: ML and Society](http://www-student.cse.buffalo.edu/~atri/ml-and-soc/spr22/index.html). I worked on enhancing the course instructional materials as well.
