@@ -20,25 +20,25 @@ Worked under [Dr. Saad Yunus Sait](https://www.srmist.edu.in/department-of-compu
 
 Worked under [Prof. Jaric Zola](https://cse.buffalo.edu/~jzola/) for what would later be my Masters capstone project. Designed and implementing a general purpose runtime executor for search space exploration and optimisation  problems (NP-hard) by adapting the [bulk synchronous parallel (BSP)](https://en.wikipedia.org/wiki/Bulk_synchronous_parallel) model of programming. The executor was built using the parallel runtime framework - [HPX](https://github.com/STEllAR-GROUP/hpx). The PR for this feature can be viewed [here](https://gitlab.com/SCoRe-Group/scool/-/merge_requests/22).
 
-### [Distributed Key Value Store <i class="fab fa-fw fa-github" aria-hidden="true"></i>]()
+### [Distributed Key Value Store <i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/saivishy/distributed-key-val-store)
 
 Developed a fault-tolerant distributed key value store by implementing the [RAFT consensus protocol](https://raft.github.io/). The data was made accessible via REST endpoints and the frontend was designed using HTML and CSS. 
 
-### [Gaussian KDE: GPU Implementation <i class="fab fa-fw fa-github" aria-hidden="true"></i>]()
+### [Gaussian KDE: GPU Implementation <i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/saivishy/kde-gpu)
 
 Parallel implementation of gaussian kernel density estimation computation for a set of floating point numbers using NVIDIA CUDA.
 
-### [Rooting Graph Nodes: Using Spark <i class="fab fa-fw fa-github" aria-hidden="true"></i>]()
+### [Rooting Graph Nodes: Using Spark <i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/saivishy/rooting-connected-components)
 
 Finds the roots of each node in a graph of connected components using Apache Spark. Distributed implementation tested on [UB's HPC](https://www.buffalo.edu/ccr/support/research_facilities/ub-hpc.html).
 
-### [Distributed Sorting: Using Open MPI <i class="fab fa-fw fa-github" aria-hidden="true"></i>]()
+### [Distributed Sorting: Using Open MPI <i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/saivishy/distributed-sorting)
 
 Implements count sort on a range of short integers distributed across a set of processors in a cluster using Open MPI. Implemented on [UB's HPC](https://www.buffalo.edu/ccr/support/research_facilities/ub-hpc.html).
 
 ## Blockchain
 
-### [Buffalo Farmers Marketplace <i class="fab fa-fw fa-github" aria-hidden="true"></i>]()
+### [Buffalo Farmers Marketplace <i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/saivishy/buffalo-farmers-marketplace)
 
 A  decentralized marketplace to facilitate transparent interactions to buy produce from your local farmers market. The frontend was built using HTML, JavaScript and CSS. 
 
